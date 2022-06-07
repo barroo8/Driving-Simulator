@@ -1,7 +1,9 @@
 # Driving-Simulator
 A driving simulator to test concentration while driving.
 
-Tested with openBCI in Brain-Gurion 3.0
+- We originally used 10hz and 15hz videos to test alpha and beta waves, while the spacebar switched between the two.
+
+- Tested with an openBCI device in Brain-Gurion 3.0
 
 
 <img width="960" alt="Screenshot_7" src="https://user-images.githubusercontent.com/94786296/172274223-89500434-bea2-4320-b0ab-2d125fdfe84c.png">
